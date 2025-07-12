@@ -1,0 +1,12 @@
+{
+  "users": [],
+  "premium": [],
+  "banned": [],
+  "setting": {
+    "prefix": ".",
+    "autoread": true,
+    "autoblock": false,
+    "autorecording": false,
+    "autoketik": false
+  }
+}
