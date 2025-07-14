@@ -2,6 +2,7 @@
   "users": [],
   "premium": [],
   "banned": [],
+  "bypass": [],
   "setting": {
     "prefix": ".",
     "autoread": true,
