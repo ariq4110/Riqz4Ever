@@ -1,6 +1,7 @@
 {
   "users": [],
-  "premium": [],
+"premium": ["6281234567890",
+  "6289876543210"],
   "banned": [], 
   "setting": {
     "prefix": ".",
